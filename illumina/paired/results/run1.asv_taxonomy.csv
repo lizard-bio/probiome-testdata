@@ -1,0 +1,271 @@
+asv_id,domain,phylum,class,order,family,genus,species
+ASV_1,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,NA
+ASV_2,Bacteria,NA,NA,NA,NA,NA,NA
+ASV_3,Bacteria,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,Subdoligranulum,NA
+ASV_4,Bacteria,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,Ruminococcus,NA
+ASV_5,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,NA
+ASV_6,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae NK3A20 group,NA
+ASV_7,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,NA,NA
+ASV_8,Bacteria,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,Faecalibacterium,NA
+ASV_9,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,NA,NA
+ASV_10,Bacteria,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,Faecalibacterium,NA
+ASV_11,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,NA
+ASV_12,Bacteria,Firmicutes,Negativicutes,Veillonellales-Selenomonadales,Veillonellaceae,Dialister,NA
+ASV_13,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,NA
+ASV_14,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,NA,NA
+ASV_15,Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Sutterellaceae,Parasutterella,NA
+ASV_16,Bacteria,Verrucomicrobiota,Verrucomicrobiae,Verrucomicrobiales,Akkermansiaceae,Akkermansia,NA
+ASV_17,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,NA,NA
+ASV_18,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,NA,NA,NA
+ASV_19,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,NA
+ASV_20,Bacteria,Actinobacteriota,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,NA
+ASV_21,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,NA,NA
+ASV_22,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,NA,NA
+ASV_23,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Alloprevotella,NA
+ASV_24,Bacteria,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,CAG-352,NA
+ASV_25,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,NA,NA
+ASV_26,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,NA
+ASV_27,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,NA,NA
+ASV_28,Bacteria,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,Faecalibacterium,NA
+ASV_29,Archaea,Euryarchaeota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,Methanobrevibacter,NA
+ASV_30,Bacteria,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,NA,NA
+ASV_31,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,NA,NA
+ASV_32,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,NA
+ASV_33,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,NA
+ASV_34,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Lachnoclostridium,NA
+ASV_35,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,[Eubacterium] eligens group,NA
+ASV_36,Bacteria,Actinobacteriota,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,NA
+ASV_37,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae NC2004 group,NA
+ASV_38,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,NA
+ASV_39,Bacteria,Actinobacteriota,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,NA
+ASV_40,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,NA
+ASV_41,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Tannerellaceae,Parabacteroides,NA
+ASV_42,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,NA,NA
+ASV_43,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,NA,NA
+ASV_44,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,NA
+ASV_45,Bacteria,Firmicutes,Clostridia,Peptostreptococcales-Tissierellales,Peptostreptococcaceae,Intestinibacter,NA
+ASV_46,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,NA,NA
+ASV_47,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,NA,NA
+ASV_48,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,NA,NA
+ASV_49,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,NA,NA
+ASV_50,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Muribaculaceae,CAG-873,NA
+ASV_51,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,NA,NA
+ASV_52,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,NA,NA
+ASV_53,Bacteria,Firmicutes,Bacilli,Erysipelotrichales,Erysipelotrichaceae,Holdemanella,NA
+ASV_54,Bacteria,Firmicutes,Negativicutes,Acidaminococcales,Acidaminococcaceae,Acidaminococcus,NA
+ASV_55,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,NA
+ASV_56,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,NA
+ASV_57,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospira,NA
+ASV_58,Bacteria,Fusobacteriota,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,NA
+ASV_59,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,NA
+ASV_60,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,NA
+ASV_61,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,[Eubacterium] xylanophilum group,NA
+ASV_62,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,NA,NA
+ASV_63,Bacteria,Firmicutes,NA,NA,NA,NA,NA
+ASV_64,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium sensu stricto 1,NA
+ASV_65,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,NA,NA
+ASV_66,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,[Eubacterium] ruminantium group,NA
+ASV_67,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,NA,NA
+ASV_68,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,NA
+ASV_69,Bacteria,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,Faecalibacterium,NA
+ASV_70,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Coprococcus,NA
+ASV_71,Bacteria,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,NA,NA
+ASV_72,Bacteria,Firmicutes,Clostridia,Clostridia UCG-014,NA,NA,NA
+ASV_73,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,NA,NA
+ASV_74,Bacteria,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,NA,NA
+ASV_75,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,NA,NA
+ASV_76,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,[Ruminococcus] torques group,NA
+ASV_77,Bacteria,Firmicutes,Clostridia,Clostridia UCG-014,NA,NA,NA
+ASV_78,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,NA
+ASV_79,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes,NA
+ASV_80,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae ND3007 group,NA
+ASV_81,Bacteria,Firmicutes,Clostridia,Oscillospirales,[Eubacterium] coprostanoligenes group,NA,NA
+ASV_82,Bacteria,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,Faecalibacterium,NA
+ASV_83,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,NA,NA
+ASV_84,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,NA,NA
+ASV_85,Bacteria,Firmicutes,Clostridia,Oscillospirales,Oscillospiraceae,NA,NA
+ASV_86,Bacteria,Firmicutes,Clostridia,Oscillospirales,Oscillospiraceae,Flavonifractor,NA
+ASV_87,Bacteria,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,NA,NA
+ASV_88,Bacteria,Firmicutes,Clostridia,Oscillospirales,Oscillospiraceae,NA,NA
+ASV_89,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,NA,NA
+ASV_90,Bacteria,Firmicutes,Clostridia,Christensenellales,Christensenellaceae,Christensenellaceae R-7 group,NA
+ASV_91,Bacteria,Firmicutes,Clostridia,Oscillospirales,Oscillospiraceae,NA,NA
+ASV_92,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes,NA
+ASV_93,Bacteria,Firmicutes,Clostridia,Clostridia UCG-014,NA,NA,NA
+ASV_94,Bacteria,Firmicutes,Clostridia,Oscillospirales,Oscillospiraceae,UCG-002,NA
+ASV_95,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes,NA
+ASV_96,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Barnesiellaceae,Coprobacter,NA
+ASV_97,Bacteria,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,NA,NA
+ASV_98,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,NA,NA
+ASV_99,Bacteria,Actinobacteriota,Coriobacteriia,Coriobacteriales,Coriobacteriaceae,Collinsella,NA
+ASV_100,Bacteria,Firmicutes,Clostridia,Oscillospirales,Oscillospiraceae,Oscillibacter,NA
+ASV_101,Bacteria,Firmicutes,Clostridia,Oscillospirales,[Eubacterium] coprostanoligenes group,NA,NA
+ASV_102,Bacteria,Firmicutes,Clostridia,Peptostreptococcales-Tissierellales,Peptostreptococcaceae,NA,NA
+ASV_103,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes,NA
+ASV_104,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,NA,NA
+ASV_105,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,NA
+ASV_106,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,NA,NA
+ASV_107,Bacteria,Firmicutes,Clostridia,Oscillospirales,Oscillospiraceae,Colidextribacter,NA
+ASV_108,Bacteria,Firmicutes,Clostridia,Oscillospirales,Oscillospiraceae,UCG-005,NA
+ASV_109,Bacteria,Firmicutes,Clostridia,Oscillospirales,Butyricicoccaceae,Butyricicoccus,NA
+ASV_110,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,NA,NA
+ASV_111,Bacteria,Firmicutes,Clostridia,NA,NA,NA,NA
+ASV_112,Bacteria,Firmicutes,Negativicutes,Acidaminococcales,Acidaminococcaceae,Acidaminococcus,NA
+ASV_113,Bacteria,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,Ruminococcus,NA
+ASV_114,Archaea,Euryarchaeota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,Methanosphaera,NA
+ASV_115,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,NA,NA
+ASV_116,Bacteria,Firmicutes,Clostridia,Oscillospirales,[Eubacterium] coprostanoligenes group,NA,NA
+ASV_117,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Marinifilaceae,Odoribacter,NA
+ASV_118,Bacteria,Desulfobacterota,Desulfovibrionia,Desulfovibrionales,Desulfovibrionaceae,Bilophila,NA
+ASV_119,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,[Eubacterium] ventriosum group,NA
+ASV_120,Bacteria,Firmicutes,Negativicutes,Acidaminococcales,Acidaminococcaceae,Phascolarctobacterium,NA
+ASV_121,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,NA,NA
+ASV_122,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Coprococcus,NA
+ASV_123,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,NA
+ASV_124,Bacteria,Firmicutes,Clostridia,Oscillospirales,Butyricicoccaceae,Butyricicoccus,NA
+ASV_125,Bacteria,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,Ruminococcus,NA
+ASV_126,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Tannerellaceae,Parabacteroides,NA
+ASV_127,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,NA
+ASV_128,Bacteria,Firmicutes,Clostridia,Oscillospirales,Oscillospiraceae,NA,NA
+ASV_129,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Tannerellaceae,Parabacteroides,NA
+ASV_130,Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Sutterellaceae,Sutterella,NA
+ASV_131,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,NA
+ASV_132,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,NA
+ASV_133,Bacteria,Firmicutes,Clostridia,Monoglobales,Monoglobaceae,Monoglobus,NA
+ASV_134,Bacteria,Firmicutes,Clostridia,Oscillospirales,Oscillospiraceae,Colidextribacter,NA
+ASV_135,Bacteria,Firmicutes,Clostridia,Peptostreptococcales-Tissierellales,Anaerovoracaceae,Mogibacterium,NA
+ASV_136,Bacteria,Firmicutes,Negativicutes,Veillonellales-Selenomonadales,Veillonellaceae,Dialister,NA
+ASV_137,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,[Eubacterium] ventriosum group,NA
+ASV_138,Archaea,Euryarchaeota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,Methanobrevibacter,NA
+ASV_139,Bacteria,Firmicutes,Clostridia,Oscillospirales,Oscillospiraceae,NK4A214 group,NA
+ASV_140,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,NA,NA
+ASV_141,Bacteria,Firmicutes,Bacilli,Erysipelotrichales,Erysipelatoclostridiaceae,Erysipelotrichaceae UCG-003,NA
+ASV_142,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Barnesiellaceae,Barnesiella,NA
+ASV_143,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Tyzzerella,NA
+ASV_144,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,[Ruminococcus] torques group,NA
+ASV_145,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,NA,NA
+ASV_146,Bacteria,Firmicutes,Clostridia,NA,NA,NA,NA
+ASV_147,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,NA,NA
+ASV_148,Bacteria,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,Ruminococcus,NA
+ASV_149,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Coprococcus,NA
+ASV_150,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,NA
+ASV_151,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae UCG-003,NA
+ASV_152,Archaea,Euryarchaeota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,Methanosphaera,NA
+ASV_153,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,NA,NA
+ASV_154,Bacteria,Firmicutes,Bacilli,RF39,NA,NA,NA
+ASV_155,Bacteria,Firmicutes,Clostridia,Oscillospirales,Oscillospiraceae,NK4A214 group,NA
+ASV_156,Bacteria,Desulfobacterota,Desulfovibrionia,Desulfovibrionales,Desulfovibrionaceae,Desulfovibrio,NA
+ASV_157,Bacteria,Firmicutes,Clostridia,Peptococcales,Peptococcaceae,Peptococcus,NA
+ASV_158,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,NA
+ASV_159,Bacteria,Firmicutes,Clostridia,NA,NA,NA,NA
+ASV_160,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Tannerellaceae,Parabacteroides,NA
+ASV_161,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,NA,NA
+ASV_162,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,NA,NA
+ASV_163,Bacteria,Actinobacteriota,Coriobacteriia,Coriobacteriales,Eggerthellaceae,Enterorhabdus,NA
+ASV_164,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,NA,NA
+ASV_165,Bacteria,NA,NA,NA,NA,NA,NA
+ASV_166,Bacteria,Cyanobacteria,Vampirivibrionia,Gastranaerophilales,NA,NA,NA
+ASV_167,Bacteria,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,Negativibacillus,NA
+ASV_168,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes,NA
+ASV_169,Bacteria,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,NA,NA
+ASV_170,Bacteria,Desulfobacterota,Desulfovibrionia,Desulfovibrionales,Desulfovibrionaceae,Bilophila,NA
+ASV_171,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,NA
+ASV_172,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Butyrivibrio,NA
+ASV_173,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Butyrivibrio,NA
+ASV_174,Bacteria,Firmicutes,Clostridia,Oscillospirales,Oscillospiraceae,NA,NA
+ASV_175,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Tannerellaceae,Parabacteroides,NA
+ASV_176,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Barnesiellaceae,Barnesiella,NA
+ASV_177,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,dgA-11 gut group,NA
+ASV_178,Bacteria,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,[Eubacterium] siraeum group,NA
+ASV_179,Bacteria,Firmicutes,Negativicutes,Veillonellales-Selenomonadales,Selenomonadaceae,Mitsuokella,NA
+ASV_180,Bacteria,Firmicutes,Clostridia,Oscillospirales,Oscillospiraceae,Colidextribacter,NA
+ASV_181,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Marinifilaceae,Butyricimonas,NA
+ASV_182,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae UCG-008,NA
+ASV_183,Bacteria,Firmicutes,Clostridia,Clostridia vadinBB60 group,NA,NA,NA
+ASV_184,Bacteria,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,Ruminococcus,NA
+ASV_185,Bacteria,Bacteroidota,Bacteroidia,NA,NA,NA,NA
+ASV_186,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae FCS020 group,NA
+ASV_187,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,NA
+ASV_188,Bacteria,Firmicutes,Clostridia,Oscillospirales,Oscillospiraceae,UCG-002,NA
+ASV_189,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Marinifilaceae,Butyricimonas,NA
+ASV_190,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,NA,NA
+ASV_191,Bacteria,Firmicutes,Clostridia,Oscillospirales,Oscillospiraceae,NA,NA
+ASV_192,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,NA,NA
+ASV_193,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Tannerellaceae,Parabacteroides,NA
+ASV_194,Bacteria,Firmicutes,Clostridia,NA,NA,NA,NA
+ASV_195,Bacteria,Firmicutes,Clostridia,Oscillospirales,UCG-011,NA,NA
+ASV_196,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Blautia,NA
+ASV_197,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,NA,NA
+ASV_198,NA,NA,NA,NA,NA,NA,NA
+ASV_199,Bacteria,Firmicutes,Clostridia,NA,NA,NA,NA
+ASV_200,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Howardella,NA
+ASV_201,Bacteria,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,NA,NA
+ASV_202,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,NA,NA
+ASV_203,Bacteria,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,Fournierella,NA
+ASV_204,Bacteria,Firmicutes,Clostridia,NA,NA,NA,NA
+ASV_205,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Sellimonas,NA
+ASV_206,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,NA
+ASV_207,Bacteria,Firmicutes,Clostridia,NA,NA,NA,NA
+ASV_208,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,NA,NA,NA
+ASV_209,Bacteria,Firmicutes,Negativicutes,Veillonellales-Selenomonadales,Veillonellaceae,Veillonella,NA
+ASV_210,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Barnesiellaceae,Coprobacter,NA
+ASV_211,Bacteria,NA,NA,NA,NA,NA,NA
+ASV_212,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae UCG-001,NA
+ASV_213,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae UCG-004,NA
+ASV_214,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Sellimonas,NA
+ASV_215,Bacteria,Firmicutes,Clostridia,Peptostreptococcales-Tissierellales,Anaerovoracaceae,Family XIII AD3011 group,NA
+ASV_216,Bacteria,Firmicutes,Negativicutes,Veillonellales-Selenomonadales,Veillonellaceae,Allisonella,NA
+ASV_217,Bacteria,Firmicutes,Clostridia,Peptostreptococcales-Tissierellales,Anaerovoracaceae,Family XIII UCG-001,NA
+ASV_218,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,NA
+ASV_219,Bacteria,Actinobacteriota,Coriobacteriia,NA,NA,NA,NA
+ASV_220,Bacteria,Firmicutes,Bacilli,Erysipelotrichales,Erysipelotrichaceae,NA,NA
+ASV_221,Bacteria,Firmicutes,Clostridia,NA,NA,NA,NA
+ASV_222,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Roseburia,NA
+ASV_223,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae UCG-004,NA
+ASV_224,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,NA,NA,NA
+ASV_225,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,NA,NA
+ASV_226,Bacteria,Firmicutes,Clostridia,NA,NA,NA,NA
+ASV_227,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae FCS020 group,NA
+ASV_228,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,NA,NA,NA
+ASV_229,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,NA,NA
+ASV_230,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,NA,NA
+ASV_231,Bacteria,NA,NA,NA,NA,NA,NA
+ASV_232,Bacteria,Firmicutes,Bacilli,RF39,NA,NA,NA
+ASV_233,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae UCG-002,NA
+ASV_234,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae FCS020 group,NA
+ASV_235,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,NA
+ASV_236,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Rikenellaceae RC9 gut group,NA
+ASV_237,Bacteria,Firmicutes,Clostridia,Oscillospirales,[Eubacterium] coprostanoligenes group,NA,NA
+ASV_238,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae NK4A136 group,NA
+ASV_239,Bacteria,Firmicutes,Clostridia,Oscillospirales,Oscillospiraceae,NK4A214 group,NA
+ASV_240,Bacteria,Firmicutes,Clostridia,Oscillospirales,Oscillospiraceae,NA,NA
+ASV_241,Bacteria,Firmicutes,Bacilli,Erysipelotrichales,Erysipelatoclostridiaceae,NA,NA
+ASV_242,Bacteria,Firmicutes,Clostridia,Peptostreptococcales-Tissierellales,Anaerovoracaceae,Family XIII AD3011 group,NA
+ASV_243,Bacteria,Firmicutes,Bacilli,RF39,NA,NA,NA
+ASV_244,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Barnesiellaceae,Coprobacter,NA
+ASV_245,Bacteria,Firmicutes,Bacilli,Erysipelotrichales,Erysipelatoclostridiaceae,Erysipelatoclostridium,NA
+ASV_246,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,GCA-900066575,NA
+ASV_247,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Rikenellaceae RC9 gut group,NA
+ASV_248,Bacteria,Firmicutes,Bacilli,Erysipelotrichales,Erysipelatoclostridiaceae,UCG-004,NA
+ASV_249,Bacteria,NA,NA,NA,NA,NA,NA
+ASV_250,Bacteria,Firmicutes,Clostridia,NA,NA,NA,NA
+ASV_251,Bacteria,Firmicutes,Clostridia,Peptostreptococcales-Tissierellales,Anaerovoracaceae,Family XIII AD3011 group,NA
+ASV_252,Bacteria,Firmicutes,Clostridia,Peptostreptococcales-Tissierellales,Anaerovoracaceae,[Eubacterium] brachy group,NA
+ASV_253,Bacteria,Firmicutes,Clostridia,Oscillospirales,UCG-010,NA,NA
+ASV_254,Bacteria,Firmicutes,Clostridia,Oscillospirales,NA,NA,NA
+ASV_255,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotellaceae NK3B31 group,NA
+ASV_256,Bacteria,Firmicutes,Bacilli,Erysipelotrichales,Erysipelotrichaceae,Faecalitalea,NA
+ASV_257,Bacteria,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,NA,NA
+ASV_258,Bacteria,Firmicutes,Clostridia,Oscillospirales,NA,NA,NA
+ASV_259,Bacteria,NA,NA,NA,NA,NA,NA
+ASV_260,Bacteria,Firmicutes,Clostridia,Oscillospirales,UCG-010,NA,NA
+ASV_261,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Marinifilaceae,Sanguibacteroides,NA
+ASV_262,Bacteria,Firmicutes,Clostridia,NA,NA,NA,NA
+ASV_263,Bacteria,Synergistota,Synergistia,Synergistales,Synergistaceae,Cloacibacillus,NA
+ASV_264,Bacteria,Firmicutes,Clostridia,Eubacteriales,Anaerofustaceae,Anaerofustis,NA
+ASV_265,Bacteria,Proteobacteria,Gammaproteobacteria,Aeromonadales,Succinivibrionaceae,Succinivibrio,NA
+ASV_266,Bacteria,NA,NA,NA,NA,NA,NA
+ASV_267,Bacteria,Cyanobacteria,Vampirivibrionia,Gastranaerophilales,NA,NA,NA
+ASV_268,Bacteria,NA,NA,NA,NA,NA,NA
+ASV_269,Bacteria,NA,NA,NA,NA,NA,NA
+ASV_270,NA,NA,NA,NA,NA,NA,NA
