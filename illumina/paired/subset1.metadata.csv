@@ -1,5 +1,5 @@
-sample,fastq_1,cohort,day,group,cell_counts
-DC01,/home/fbdtemme/Documents/UGENT/stage/test-subset1/reads/DC01_R1.fastq.gz,Disease cohort,1,CD,5314887324
-DC02,/home/fbdtemme/Documents/UGENT/stage/test-subset1/reads/DC02_R1.fastq.gz,Disease cohort,1,CD,61042558217
-DC30,/home/fbdtemme/Documents/UGENT/stage/test-subset1/reads/DC30.R1.fastq.gz,Disease cohort,1,Healthy,99183906832
-DC31,/home/fbdtemme/Documents/UGENT/stage/test-subset1/reads/DC31.R1.fastq.gz,Disease cohort,1,Healthy,217221266674
+sample,fastq_1,fastq_2,cohort,day,group,cell_counts
+DC01,/home/fbdtemme/Documents/UGENT/stage/test-subset1/reads/DC01_R1.fastq.gz,/home/fbdtemme/Documents/UGENT/stage/test-subset1/reads/DC01_R2.fastq.gz, Disease cohort,1,CD,5314887324
+DC02,/home/fbdtemme/Documents/UGENT/stage/test-subset1/reads/DC02_R1.fastq.gz,/home/fbdtemme/Documents/UGENT/stage/test-subset1/reads/DC02_R2.fastq.gz, Disease cohort,1,CD,61042558217
+DC30,/home/fbdtemme/Documents/UGENT/stage/test-subset1/reads/DC30.R1.fastq.gz,/home/fbdtemme/Documents/UGENT/stage/test-subset1/reads/DC30.R2.fastq.gz, Disease cohort,1,Healthy,99183906832
+DC31,/home/fbdtemme/Documents/UGENT/stage/test-subset1/reads/DC31.R1.fastq.gz,/home/fbdtemme/Documents/UGENT/stage/test-subset1/reads/DC31.R2.fastq.gz, Disease cohort,1,Healthy,217221266674
